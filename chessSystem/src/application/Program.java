@@ -1,9 +1,13 @@
 package application;
 
+import boardgame.Positon;
+
 public class Program {
 	public static void main(String[] args) {
 		
-		System.out.println("Hello World!");
+		Positon pos = new Positon(3, 5);
+		System.out.println(pos);
+		
 	}
 
 }
