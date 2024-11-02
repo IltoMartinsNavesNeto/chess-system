@@ -17,7 +17,7 @@ No tabuleiro, as peças são representadas por letras, seguindo o padrão intern
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/IltoMartinsNavesNeto/chess-system-design-java.git
+   git clone https://github.com/IltoMartinsNavesNeto/chess-system-java.git
    cd chess-system-design
 
 2. Compile o código 
